@@ -16,7 +16,7 @@ namespace TerceiroDesafio.ConsoleApp
 
             Console.WriteLine();
 
-            #region Código que escreve a parte de cima e meio do diamante
+            #region Código que escreve a parte de cima do diamante
 
             //Lembrando que 65 é o código ASCII do 'A'
             for (int linha = 65; linha < letraUsuario; linha++)
